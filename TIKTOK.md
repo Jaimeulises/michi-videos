@@ -9,7 +9,7 @@ TikTok solo sube lo que está en la galería del móvil, no acepta enlaces. Así
 1. Abre esta página en Safari.
 2. Guarda la pieza del día:
    - **Imágenes**: toca cada una para abrirla en grande, mantén el dedo encima y elige «Añadir a Fotos». Guárdalas en orden: 1, 2, 3 y 4.
-   - **Vídeo**: toca el enlace y, cuando se abra, pulsa compartir (el cuadrado con la flecha) y luego «Guardar vídeo».
+   - **Vídeo**: toca el enlace y elige «Descargar». Después toca la flecha de descargas, arriba en Safari, abre el vídeo, pulsa compartir (el cuadrado con la flecha) y elige «Guardar vídeo». Al final, bórralo también de Archivos, en «Descargas».
 3. En TikTok, pulsa **+** y luego **Subir**. Elige las cuatro fotos en orden, o el vídeo. Si te deja elegir entre foto y vídeo, elige **Foto**.
 4. Copia el título y la descripción de cada bloque gris de abajo. Cada bloque tiene un botón para copiar.
 5. En «Más opciones», activa **Contenido generado por IA**.
