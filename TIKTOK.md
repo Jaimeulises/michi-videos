@@ -1,4 +1,4 @@
-# TikTok desde el móvil: láminas y vídeo de だいじょうぶ
+# TikTok desde el móvil
 
 Instagram y YouTube salen solos desde Buffer. Esto es solo para TikTok.
 
@@ -14,6 +14,38 @@ TikTok solo sube lo que está en la galería del móvil, no acepta enlaces. Así
 4. Copia el título y la descripción de cada bloque gris de abajo. Cada bloque tiene un botón para copiar.
 5. En «Más opciones», activa **Contenido generado por IA**.
 6. Publica. Después, borra las fotos o el vídeo de Fotos, y también del álbum «Eliminado».
+
+---
+
+## Ya · Momo 02 · Al llegar a casa
+
+El que más vistas tuvo en Instagram. Es la versión corregida: «¡Ya estoy aquí!» y «¡Ya estás aquí!».
+
+**[Descargar el vídeo (32 s)](https://raw.githubusercontent.com/Jaimeulises/michi-videos/primera-tanda/primera-tanda/momo-02-casa-youtube.mp4)**
+
+Descripción:
+
+```
+Lo que se dice en Japón al llegar a casa 🏠 ただいま (tadaima): «¡ya estoy aquí!», lo dice quien llega. おかえり (okaeri): «¡ya estás aquí!», lo contesta quien está en casa. ¿A quién se lo dirías hoy? #aprenderjapones #japones #japonesparaprincipiantes #nihongo #culturajaponesa
+```
+
+Portada: el primer segundo, con la pregunta.
+
+---
+
+## Unas horas después o mañana · Momo 01 · Antes y después de comer
+
+El segundo con más vistas y guardados en Instagram.
+
+**[Descargar el vídeo (36 s)](https://raw.githubusercontent.com/Jaimeulises/michi-videos/laminas/tiktok/momo-01-comer.mp4)**
+
+Descripción:
+
+```
+¿Qué se dice en Japón antes y después de comer? 🍚 いただきます (itadakimasu): antes de comer. Lo dice quien va a comer, como agradecimiento. ごちそうさまでした (gochisousama deshita): al terminar. Guárdalo y repítelo en voz alta. #aprenderjapones #japones #japonesparaprincipiantes #nihongo #culturajaponesa
+```
+
+Portada: el primer segundo, con la pregunta.
 
 ---
 
