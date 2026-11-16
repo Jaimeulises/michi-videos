@@ -34,6 +34,20 @@ Lo que se dice en Japón al llegar a casa 🏠 ただいま (tadaima): «¡ya es
 
 ---
 
+## Lunes 16 · Vídeo de ビジュ
+
+Sale hoy en Instagram y YouTube, en lugar del carrusel de la parte 3.
+
+**[Descargar el vídeo (35 s)](https://raw.githubusercontent.com/Jaimeulises/michi-videos/laminas/momo/momo-05-biju.mp4)**
+
+Descripción:
+
+```
+¿Qué te dicen en Japón si vas guapísimo? ✨ #aprenderjapones #japones #nihongo #japonesparaprincipiantes #culturajaponesa
+```
+
+---
+
 ## Martes 17 · Momo 03 · Las dos «buenas noches»
 
 **[Descargar el vídeo (37 s)](https://raw.githubusercontent.com/Jaimeulises/michi-videos/primera-tanda/primera-tanda/momo-03-buenas-noches.mp4)**
