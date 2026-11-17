@@ -64,9 +64,11 @@ Descripción:
 
 ## Miércoles 18 · Momo 07 · Al conocer a alguien
 
-Sale a las 17:00 en Instagram y YouTube.
+Sale a las 17:00 en Instagram y YouTube, en la versión con el japonés escrito.
 
-**[Descargar el vídeo (36 s)](https://raw.githubusercontent.com/Jaimeulises/michi-videos/laminas/momo/momo-07-conocer.mp4)**
+**[Descargar el vídeo (36 s)](https://raw.githubusercontent.com/Jaimeulises/michi-videos/laminas/momo/momo-07-conocer-escrito.mp4)**
+
+Portada: el segundo 2,4, con la pregunta entera.
 
 Descripción:
 
