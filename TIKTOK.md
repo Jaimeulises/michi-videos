@@ -18,7 +18,7 @@ TikTok solo sube lo que está en la galería del móvil, no acepta enlaces. Así
 
 En Instagram las piezas salen a las 17:00. En TikTok, súbelas a la hora que te venga bien, una al día.
 
-**Pausa desde el 17 de noviembre.** Solo sale lo que tiene fecha confirmada: ahora mismo, el miércoles 18, Momo 07. Lo de los días 19 a 23 sigue en pausa hasta que digas desde cuándo retomar.
+**Pausa desde el 17 de noviembre.** Solo sale lo que tiene fecha confirmada: ahora mismo, el miércoles 18, las prefecturas (por la mañana) y Momo 07 (a las 17:00). Lo de los días 19 a 23 sigue en pausa hasta que digas desde cuándo retomar.
 
 ---
 
@@ -58,6 +58,22 @@ Descripción:
 
 ```
 «Buenas noches» en japonés son dos palabras distintas 🌙 #aprenderjapones #japones #japonesparaprincipiantes #nihongo #culturajaponesa
+```
+
+---
+
+## Miércoles 18 · Las 47 prefecturas, cantadas por un perrito
+
+Sale por la mañana en Instagram y YouTube.
+
+**[Descargar el vídeo (78 s)](https://raw.githubusercontent.com/Jaimeulises/michi-videos/laminas/prefecturas/prefecturas-todo-japon.mp4)**
+
+Portada: el mapa de colores del final (segundo 76). Marca «Contenido generado por IA» al subirlo. El crédito de la voz va en el texto: lo pide la licencia de VOICEVOX.
+
+Descripción:
+
+```
+¿Te sabes las 47 prefecturas de Japón? 🐕 Un perrito te las canta todas, región a región. Voz: VOICEVOX:玄野武宏 #aprenderjapones #japones #japonesparaprincipiantes #nihongo #culturajaponesa
 ```
 
 ---
