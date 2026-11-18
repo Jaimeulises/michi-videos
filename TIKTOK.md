@@ -18,7 +18,7 @@ TikTok solo sube lo que está en la galería del móvil, no acepta enlaces. Así
 
 En Instagram las piezas salen a las 17:00. En TikTok, súbelas a la hora que te venga bien, una al día.
 
-**Pausa desde el 17 de noviembre.** Solo sale lo que tiene fecha confirmada: ahora mismo, el miércoles 18, las prefecturas (por la mañana) y Momo 07 (a las 17:00). Lo de los días 19 a 23 sigue en pausa hasta que digas desde cuándo retomar.
+**Pausa desde el 17 de noviembre.** Solo sale lo que tiene fecha confirmada: ahora mismo, las prefecturas (publicadas el miércoles 18) y Momo 07 (jueves 19 a las 17:00). Lo de los días 19 a 23 sigue en pausa hasta que digas desde cuándo retomar.
 
 ---
 
@@ -64,7 +64,7 @@ Descripción:
 
 ## Miércoles 18 · Las 47 prefecturas, cantadas por un perrito
 
-Sale por la mañana en Instagram y YouTube.
+Publicado el miércoles 18 a las 10:28 en Instagram y YouTube.
 
 **[Descargar el vídeo (78 s)](https://raw.githubusercontent.com/Jaimeulises/michi-videos/laminas/prefecturas/prefecturas-todo-japon.mp4)**
 
@@ -78,7 +78,7 @@ Descripción:
 
 ---
 
-## Miércoles 18 · Momo 07 · Al conocer a alguien
+## Jueves 19 · Momo 07 · Al conocer a alguien
 
 Sale a las 17:00 en Instagram y YouTube, en la versión con el japonés escrito.
 
