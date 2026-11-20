@@ -18,7 +18,7 @@ TikTok solo sube lo que está en la galería del móvil, no acepta enlaces. Así
 
 En Instagram las piezas salen a las 17:00. En TikTok, súbelas a la hora que te venga bien, una al día.
 
-**Pausa desde el 17 de noviembre.** Solo sale lo que tiene fecha confirmada: ahora mismo, las prefecturas (publicadas el miércoles 18), Momo 07 (publicado el jueves 19 por la mañana) y Momo 10 (viernes 20). Lo de los días 19 a 23 sigue en pausa hasta que digas desde cuándo retomar.
+**Pausa desde el 17 de noviembre.** Solo sale lo que tiene fecha confirmada: ahora mismo, las prefecturas (publicadas el miércoles 18), Momo 07 (publicado el jueves 19 por la mañana), Momo 10 (viernes 20) y los tres vídeos con el libro (desde el sábado 21, uno al día). Lo demás de los días 19 a 23 sigue en pausa hasta que digas desde cuándo retomar.
 
 ---
 
@@ -106,6 +106,54 @@ Descripción:
 
 ```
 En japonés, el «no» va al final del verbo. ¿Cómo dirías «no fui»? 🍙 #aprenderjapones #japones #japonesparaprincipiantes #nihongo #gramaticajaponesa · Trazos: KanjiVG (CC BY-SA 3.0)
+```
+
+---
+
+## 1 · Japón, «origen del sol» (日 + 本)
+
+Uno de los tres vídeos nuevos con el libro de Amazon al final. Mejor uno al día.
+
+**[Descargar el vídeo (31 s)](https://raw.githubusercontent.com/Jaimeulises/michi-videos/laminas/logica/logica-nihon-libro.mp4)**
+
+Portada: el segundo 0, con «En japonés no se complican» y 日 + 本 = ?.
+
+Descripción:
+
+```
+Japón, en japonés, es «origen del sol»: 日 + 本. ¿Qué significa 日本 + 人? ☀️ 📖 Nuestro libro, «Cuentos japoneses para empezar», está en Amazon. #aprenderjapones #japones #kanji #nihongo #japonesparaprincipiantes · Trazos: KanjiVG (CC BY-SA 3.0)
+```
+
+---
+
+## 2 · Los adjetivos tienen pasado (さむい → さむかった)
+
+Uno de los tres vídeos nuevos con el libro de Amazon al final. Mejor uno al día.
+
+**[Descargar el vídeo (35 s)](https://raw.githubusercontent.com/Jaimeulises/michi-videos/laminas/logica/adjetivos-pasado-libro.mp4)**
+
+Portada: el segundo 0, con el título, さむ y かった en rojo.
+
+Descripción:
+
+```
+En japonés, los adjetivos tienen pasado: さむい → さむかった. ¿Cómo dirías «hacía calor»? 🥶 📖 Nuestro libro, «Cuentos japoneses para empezar», está en Amazon. #aprenderjapones #japones #japonesparaprincipiantes #nihongo #gramaticajaponesa · Trazos: KanjiVG (CC BY-SA 3.0)
+```
+
+---
+
+## 3 · Si sabes 車, ya lees tres palabras
+
+Uno de los tres vídeos nuevos con el libro de Amazon al final. Mejor uno al día.
+
+**[Descargar el vídeo (30 s)](https://raw.githubusercontent.com/Jaimeulises/michi-videos/laminas/logica/logica-kuruma-libro.mp4)**
+
+Portada: el segundo 0, con «El japonés tiene lógica» y el 車 rojo.
+
+Descripción:
+
+```
+Si sabes 車, ya lees tres palabras: coche, tren y bici. ¿Qué será 電 + 話? 🚗 📖 Nuestro libro, «Cuentos japoneses para empezar», está en Amazon. #aprenderjapones #japones #kanji #nihongo #japonesparaprincipiantes · Trazos: KanjiVG (CC BY-SA 3.0)
 ```
 
 ---
