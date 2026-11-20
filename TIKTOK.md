@@ -18,7 +18,7 @@ TikTok solo sube lo que está en la galería del móvil, no acepta enlaces. Así
 
 En Instagram las piezas salen a las 17:00. En TikTok, súbelas a la hora que te venga bien, una al día.
 
-**Pausa desde el 17 de noviembre.** Solo sale lo que tiene fecha confirmada: ahora mismo, las prefecturas (publicadas el miércoles 18) y Momo 07 (publicado el jueves 19 por la mañana). Lo de los días 19 a 23 sigue en pausa hasta que digas desde cuándo retomar.
+**Pausa desde el 17 de noviembre.** Solo sale lo que tiene fecha confirmada: ahora mismo, las prefecturas (publicadas el miércoles 18), Momo 07 (publicado el jueves 19 por la mañana) y Momo 10 (viernes 20). Lo de los días 19 a 23 sigue en pausa hasta que digas desde cuándo retomar.
 
 ---
 
@@ -90,6 +90,22 @@ Descripción:
 
 ```
 Cómo presentarte en japonés, paso a paso 👋 ¿Cómo lo dirías tú? #aprenderjapones #japones #japonesparaprincipiantes #nihongo #culturajaponesa
+```
+
+---
+
+## Viernes 20 · Momo 10 · Una regla para todos los verbos
+
+Sale el viernes 20 en Instagram y YouTube.
+
+**[Descargar el vídeo (41 s)](https://raw.githubusercontent.com/Jaimeulises/michi-videos/laminas/momo/momo-10-regla-final.mp4)**
+
+Portada: el segundo 0, con たべ y ませんでした en grande.
+
+Descripción:
+
+```
+En japonés, el «no» va al final del verbo. ¿Cómo dirías «no fui»? 🍙 #aprenderjapones #japones #japonesparaprincipiantes #nihongo #gramaticajaponesa · Trazos: KanjiVG (CC BY-SA 3.0)
 ```
 
 ---
