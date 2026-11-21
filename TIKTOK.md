@@ -112,9 +112,9 @@ En japonés, el «no» va al final del verbo. ¿Cómo dirías «no fui»? 🍙 #
 
 ## 1 · Japón, «origen del sol» (日 + 本)
 
-Uno de los tres vídeos nuevos con el libro de Amazon al final. Mejor uno al día.
+Uno de los tres vídeos nuevos con el libro de Amazon al final y el sello de Momo arriba a la derecha. Mejor uno al día.
 
-**[Descargar el vídeo (31 s)](https://raw.githubusercontent.com/Jaimeulises/michi-videos/laminas/logica/logica-nihon-libro.mp4)**
+**[Descargar el vídeo (31 s)](https://raw.githubusercontent.com/Jaimeulises/michi-videos/laminas/logica/logica-nihon-sello.mp4)**
 
 Portada: el segundo 0, con «En japonés no se complican» y 日 + 本 = ?.
 
@@ -128,9 +128,9 @@ Japón, en japonés, es «origen del sol»: 日 + 本. ¿Qué significa 日本 +
 
 ## 2 · Los adjetivos tienen pasado (さむい → さむかった)
 
-Uno de los tres vídeos nuevos con el libro de Amazon al final. Mejor uno al día.
+Uno de los tres vídeos nuevos con el libro de Amazon al final y el sello de Momo arriba a la derecha. Mejor uno al día.
 
-**[Descargar el vídeo (35 s)](https://raw.githubusercontent.com/Jaimeulises/michi-videos/laminas/logica/adjetivos-pasado-libro.mp4)**
+**[Descargar el vídeo (35 s)](https://raw.githubusercontent.com/Jaimeulises/michi-videos/laminas/logica/adjetivos-pasado-sello.mp4)**
 
 Portada: el segundo 0, con el título, さむ y かった en rojo.
 
@@ -144,9 +144,9 @@ En japonés, los adjetivos tienen pasado: さむい → さむかった. ¿Cómo
 
 ## 3 · Si sabes 車, ya lees tres palabras
 
-Uno de los tres vídeos nuevos con el libro de Amazon al final. Mejor uno al día.
+Uno de los tres vídeos nuevos con el libro de Amazon al final y el sello de Momo arriba a la derecha. Mejor uno al día.
 
-**[Descargar el vídeo (30 s)](https://raw.githubusercontent.com/Jaimeulises/michi-videos/laminas/logica/logica-kuruma-libro.mp4)**
+**[Descargar el vídeo (30 s)](https://raw.githubusercontent.com/Jaimeulises/michi-videos/laminas/logica/logica-kuruma-sello.mp4)**
 
 Portada: el segundo 0, con «El japonés tiene lógica» y el 車 rojo.
 
