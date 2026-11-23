@@ -18,7 +18,7 @@ TikTok solo sube lo que está en la galería del móvil, no acepta enlaces. Así
 
 En Instagram las piezas salen a las 17:00. En TikTok, súbelas a la hora que te venga bien, una al día.
 
-**Pausa desde el 17 de noviembre.** Solo sale lo que tiene fecha confirmada: ahora mismo, las prefecturas (publicadas el miércoles 18), Momo 07 (publicado el jueves 19 por la mañana), Momo 10 (viernes 20) y los tres vídeos con el libro (desde el sábado 21, uno al día). Lo demás de los días 19 a 23 sigue en pausa hasta que digas desde cuándo retomar.
+**Pausa desde el 17 de noviembre.** Solo sale lo que tiene fecha confirmada: ahora mismo, las prefecturas (publicadas el miércoles 18), Momo 07 (publicado el jueves 19 por la mañana), Momo 10 (viernes 20) y los tres vídeos con el libro (desde el sábado 21, uno al día). Los cinco vídeos nuevos para ganar seguidores (23 de noviembre) están más abajo, en su sección. Lo demás de los días 19 a 23 sigue en pausa hasta que digas desde cuándo retomar.
 
 ---
 
@@ -154,6 +154,72 @@ Descripción:
 
 ```
 Si sabes 車, ya lees tres palabras: coche, tren y bici. ¿Qué será 電 + 話? 🚗 📖 Nuestro libro, «Cuentos japoneses para empezar», está en Amazon. #aprenderjapones #japones #kanji #nihongo #japonesparaprincipiantes · Trazos: KanjiVG (CC BY-SA 3.0)
+```
+
+---
+
+## Cinco vídeos para ganar seguidores (23 de noviembre)
+
+Los cinco nuevos, con el icono de la app arriba a la derecha y «Sígueme» al final (el del zodiaco acaba con el libro). Antes de subirlos, escucha el japonés nuevo, sobre todo チリ en el de los países. Mejor uno al día, empezando por los de reglas: el plural y el del 99. El nivel va en el texto, no en el vídeo.
+
+### S1 · En japonés, «gato» y «gatos» se dicen igual
+
+**[Descargar el vídeo (45 s)](https://raw.githubusercontent.com/Jaimeulises/michi-videos/laminas/seguidores/seguidores-plural.mp4)**
+
+Portada: el segundo 0, con el título y ねこ.
+
+Descripción:
+
+```
+En japonés, «gato» y «gatos» se dicen igual: ねこ. Si とり es «pájaro», ¿cómo se dice «pájaros»? 🐦 Nivel JLPT N5. #aprenderjapones #japones #japonesparaprincipiantes #nihongo #JLPTN5 · Trazos: KanjiVG (CC BY-SA 3.0)
+```
+
+### S2 · Si sabes contar hasta 10, sabes hasta 99
+
+**[Descargar el vídeo (40 s)](https://raw.githubusercontent.com/Jaimeulises/michi-videos/laminas/seguidores/seguidores-99.mp4)**
+
+Portada: el segundo 0, con el título, 九十九 y el 99 rojo.
+
+Descripción:
+
+```
+Si sabes contar hasta 10 en japonés, ya sabes hasta 99: 十一, 二十, 九十九. ¿Cómo se dice 35? 🔢 Nivel JLPT N5. #aprenderjapones #japones #numerosenjapones #nihongo #JLPTN5 · Trazos: KanjiVG (CC BY-SA 3.0)
+```
+
+### S3 · No digas 4 ni 9 en Japón sin saber esto
+
+**[Descargar el vídeo (37 s)](https://raw.githubusercontent.com/Jaimeulises/michi-videos/laminas/seguidores/seguidores-4-9.mp4)**
+
+Portada: el segundo 0, con el título, 四 y 九.
+
+Descripción:
+
+```
+No digas 4 ni 9 en Japón sin saber esto: し suena como 死 (muerte) y く como 苦 (sufrimiento). ¿Cómo dirías 14? 🏨 Nivel JLPT N5. #aprenderjapones #japones #culturajaponesa #nihongo #JLPTN5 · Trazos: KanjiVG (CC BY-SA 3.0)
+```
+
+### S4 · ¿Sabes cómo se escribe tu país en japonés?
+
+**[Descargar el vídeo (30 s)](https://raw.githubusercontent.com/Jaimeulises/michi-videos/laminas/seguidores/seguidores-paises.mp4)**
+
+Portada: el segundo 0, con el título y los cinco países en katakana.
+
+Descripción:
+
+```
+¿Sabes cómo se escribe tu país en japonés? España, México, Argentina, Chile y Colombia, en katakana. ¿No está el tuyo? Pídelo en los comentarios 🌎 Nivel JLPT N5. #aprenderjapones #japones #katakana #nihongo #JLPTN5 · Trazos: KanjiVG (CC BY-SA 3.0)
+```
+
+### S5 · ¿Cuál es tu signo del zodiaco en Japón?
+
+**[Descargar el vídeo (33 s)](https://raw.githubusercontent.com/Jaimeulises/michi-videos/laminas/seguidores/seguidores-zodiaco.mp4)**
+
+Portada: el segundo 0, con el título y los doce animales en hiragana.
+
+Descripción:
+
+```
+¿Cuál es tu signo del zodiaco en Japón? Busca tu año: el último no es el cerdo, es el jabalí 🐗 Nivel JLPT N3. 📖 Por qué no está el gato, en nuestro libro «Cuentos japoneses para empezar», en Amazon. #aprenderjapones #japones #culturajaponesa #nihongo #JLPTN3 · Trazos: KanjiVG (CC BY-SA 3.0)
 ```
 
 ---
