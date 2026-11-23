@@ -144,9 +144,9 @@ En japonés, los adjetivos tienen pasado: さむい → さむかった. ¿Cómo
 
 ## 3 · Si sabes 車, ya lees tres palabras
 
-Uno de los tres vídeos nuevos con el libro de Amazon al final y el sello de Momo arriba a la derecha. Mejor uno al día.
+Con el libro de Amazon al final y, desde el 23 de noviembre, el icono de la app arriba a la derecha en lugar del sello de Momo.
 
-**[Descargar el vídeo (30 s)](https://raw.githubusercontent.com/Jaimeulises/michi-videos/laminas/logica/logica-kuruma-sello.mp4)**
+**[Descargar el vídeo (30 s)](https://raw.githubusercontent.com/Jaimeulises/michi-videos/laminas/logica/logica-kuruma-icono.mp4)**
 
 Portada: el segundo 0, con «El japonés tiene lógica» y el 車 rojo.
 
