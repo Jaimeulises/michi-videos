@@ -186,16 +186,16 @@ Descripción:
 Si sabes contar hasta 10 en japonés, ya sabes hasta 99: 十一, 二十, 九十九. ¿Cómo se dice 35? 🔢 Nivel JLPT N5. #aprenderjapones #japones #numerosenjapones #nihongo #JLPTN5 · Trazos: KanjiVG (CC BY-SA 3.0)
 ```
 
-### S3 · No digas 4 ni 9 en Japón sin saber esto
+### S3 · A los japoneses no les va a gustar que digas 4 y 9
 
-**[Descargar el vídeo (37 s)](https://raw.githubusercontent.com/Jaimeulises/michi-videos/laminas/seguidores/seguidores-4-9.mp4)**
+**[Descargar el vídeo (39 s)](https://raw.githubusercontent.com/Jaimeulises/michi-videos/laminas/seguidores/seguidores-4-9-gancho.mp4)**
 
-Portada: el segundo 0, con el título, 四 y 九.
+Portada: el segundo 0, con el título, 四 y 九. (26 de noviembre: sustituye a la versión «No digas 4 ni 9 en Japón sin saber esto», que sigue en `seguidores/seguidores-4-9.mp4`.)
 
 Descripción:
 
 ```
-No digas 4 ni 9 en Japón sin saber esto: し suena como 死 (muerte) y く como 苦 (sufrimiento). ¿Cómo dirías 14? 🏨 Nivel JLPT N5. #aprenderjapones #japones #culturajaponesa #nihongo #JLPTN5 · Trazos: KanjiVG (CC BY-SA 3.0)
+A los japoneses no les va a gustar que digas 4 y 9. Bueno, depende de cómo: し suena como 死 (muerte) y く como 苦 (sufrimiento). ¿Cómo dirías 14? 🏨 Nivel JLPT N5. #aprenderjapones #japones #culturajaponesa #nihongo #JLPTN5 · Trazos: KanjiVG (CC BY-SA 3.0)
 ```
 
 ### S4 · ¿Sabes cómo se escribe tu país en japonés?
