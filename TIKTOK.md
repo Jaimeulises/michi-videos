@@ -210,17 +210,19 @@ Descripción:
 ¿Sabes cómo se escribe tu país en japonés? España, México, Argentina, Chile y Colombia, en katakana. ¿No está el tuyo? Pídelo en los comentarios 🌎 Nivel JLPT N5. #aprenderjapones #japones #katakana #nihongo #JLPTN5 · Trazos: KanjiVG (CC BY-SA 3.0)
 ```
 
-### S5 · ¿Cuál es tu signo del zodiaco en Japón?
+### S5 · ¿Cuál es tu signo del zodiaco en Japón? (con dibujos y una palabra de carácter)
 
-**[Descargar el vídeo (33 s)](https://raw.githubusercontent.com/Jaimeulises/michi-videos/laminas/seguidores/seguidores-zodiaco.mp4)**
+**[Descargar el vídeo (53 s)](https://raw.githubusercontent.com/Jaimeulises/michi-videos/laminas/seguidores/seguidores-zodiaco-dibujos.mp4)**
 
-Portada: el segundo 0, con el título y los doce animales en hiragana.
+Portada: el segundo 0, con el título y los doce animales dibujados con su nombre.
 
 Descripción:
 
 ```
-¿Cuál es tu signo del zodiaco en Japón? Busca tu año: el último no es el cerdo, es el jabalí 🐗 Nivel JLPT N3. 📖 Por qué no está el gato, en nuestro libro «Cuentos japoneses para empezar», en Amazon. #aprenderjapones #japones #culturajaponesa #nihongo #JLPTN3 · Trazos: KanjiVG (CC BY-SA 3.0)
+¿Cuál es tu signo del zodiaco en Japón? 🐉 Cada año es de un animal y se repiten cada 12 años: busca el tuyo y mira lo que dicen de tu carácter. ¿Te define? Escríbelo en japonés en los comentarios. Nivel JLPT N3. 📖 Por qué no está el gato, en nuestro libro «Cuentos japoneses para empezar», en Amazon. #aprenderjapones #japones #culturajaponesa #nihongo #JLPTN3 · Trazos: KanjiVG (CC BY-SA 3.0)
 ```
+
+La versión vieja, sin dibujos (`seguidores/seguidores-zodiaco.mp4`), ya no se usa.
 
 ---
 
